@@ -84,21 +84,18 @@ III.Third Item
     <title>HTML Lists Example</title>
 </head>
 <body>
-
-    <h2>Ordered List</h2>
+  <h2>Ordered List</h2>
     <ol>
         <li>First Item</li>
         <li>Second Item</li>
         <li>Third Item</li>
     </ol>
-
     <h2>Unordered List</h2>
     <ul>
         <li>First Item</li>
         <li>Second Item</li>
         <li>Third Item</li>
     </ul>
-
     <h2>Nested List</h2>
     <ol>
         <li>AWS
