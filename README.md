@@ -26,4 +26,4 @@ print(a+b)
 
 [youtubeAU](https://youtu.be/xpX0u2R_0yI)
 
-![ACETCOLLEGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdadKET8GMZjbrOMvA1eNxTPVkgBBADJUjig&s)![](https://acet.ac.in/)
+![ACETCOLLEGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdadKET8GMZjbrOMvA1eNxTPVkgBBADJUjig&s)[](https://acet.ac.in/)
