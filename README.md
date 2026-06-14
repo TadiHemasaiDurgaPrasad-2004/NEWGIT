@@ -33,6 +33,9 @@ print(a+b)
 </a>
 
 <h6><ins>ORDERED LIST!!</ins></h6>
-1)first
-2)second
-3)third
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
