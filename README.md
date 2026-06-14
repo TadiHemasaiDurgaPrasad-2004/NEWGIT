@@ -145,9 +145,11 @@ III.Third Item
 </html>
 
 
-Greateful[^]]
 
-sorrowful[^2]]
+- Grateful[^1]
+- Sorrowful[^2]
+
+
 
 
 # check boxes
@@ -156,6 +158,7 @@ sorrowful[^2]]
 - [ ] Learn CSS
 - [x] Learn Markdown
 - [x] Create GitHub Repository
+
 
 
 
