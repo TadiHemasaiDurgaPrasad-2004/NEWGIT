@@ -146,14 +146,16 @@ III.Third Item
 
 
 Greateful[^]]
+
 sorrowful[^2]]
 
--[x]option1
 
--[]option2
+--[]option1
+
+--[]option2
 
 
--[]option3
+--[]option3
 
 
 
