@@ -149,6 +149,8 @@ III.Third Item
 - Grateful[^1]
 - Sorrowful[^2]
 
+[^1]: Thankful.
+[^2]: Sad.
 
 
 
