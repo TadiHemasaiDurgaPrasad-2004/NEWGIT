@@ -37,23 +37,32 @@ print(a+b)
 #NUMERIC
 
 1.First Item
+
 2.Second Item
+
 3.Third Item
 
 #ALPHABETICAL (CL)
 
 A.First Item
+
 B.Second Item
+
 C.Third Item
 
 #ALPHABETICAL (SL)
 
 a.First Item
+
 b.Second Item
+
 c.Third Item
 
 #ROMANNUMERIC
 
 I.First Item
+
 II.Second Item
+
 III.Third Item
+
