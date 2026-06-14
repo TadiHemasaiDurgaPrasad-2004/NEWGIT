@@ -39,3 +39,9 @@ print(a+b)
   <li>Tea</li>
   <li>Milk</li>
 </ol>
+
+<ol> a
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
