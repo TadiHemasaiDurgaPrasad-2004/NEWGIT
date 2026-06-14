@@ -34,14 +34,18 @@ print(a+b)
 
 <h6><ins>ORDERED LIST!!</ins></h6>
 
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+#NUMERIC
 
-<ol> a
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+1.First Item
+2.Second Item
+3.Third Item
+
+#ALPHABETICAL (CL)
+A.First Item
+B.Second Item
+C.Third Item
+
+#ALPHABETICAL (SL)
+a.First Item
+b.Second Item
+c.Third Item
