@@ -73,7 +73,50 @@ III.Third Item
 <h6><ins>UNORDERED LIST!!</ins></h6>
 
 -ITEM1
+
 -ITEM2
+
 -ITEM3
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Lists Example</title>
+</head>
+<body>
+
+    <h2>Ordered List</h2>
+    <ol>
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ol>
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ul>
+
+    <h2>Nested List</h2>
+    <ol>
+        <li>AWS
+            <ul>
+                <li>EC2</li>
+                <li>S3</li>
+            </ul>
+        </li>
+        <li>Azure
+            <ul>
+                <li>Virtual Machines</li>
+                <li>Storage Account</li>
+            </ul>
+        </li>
+    </ol>
+
+</body>
+</html>
+
 
 
