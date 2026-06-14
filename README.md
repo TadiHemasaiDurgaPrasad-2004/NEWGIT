@@ -191,13 +191,12 @@ Content goes here...
 
 
 
+# My README
 
-# AWS Documentation
+<!-- This section is under development -->
 
-<!-- Add more AWS services here later -->
-
-## EC2
-Information about EC2.
-
+## Features
+- Feature 1
+- Feature 2
 
 
