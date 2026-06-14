@@ -78,6 +78,8 @@ III.Third Item
 
 -ITEM3
 
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -92,6 +94,16 @@ III.Third Item
     </ol>
     <h2>Unordered List</h2>
     <ul>
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ul>
+    <ul type="square">
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ul>
+    <ul type="+">
         <li>First Item</li>
         <li>Second Item</li>
         <li>Third Item</li>
