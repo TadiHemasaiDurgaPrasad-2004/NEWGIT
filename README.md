@@ -103,7 +103,7 @@ III.Third Item
         <li>Second Item</li>
         <li>Third Item</li>
     </ul>
-    <ul type="+">
+    <ul type="plus">
         <li>First Item</li>
         <li>Second Item</li>
         <li>Third Item</li>
