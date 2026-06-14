@@ -31,3 +31,8 @@ print(a+b)
 <a href="https://acet.ac.in/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxc0X5I1CjZpz3CqCzSEtG9ZcldtBPuEBhtA&s">
 </a>
+
+<h6><ins>ORDERED LIST!!</ins></h6>
+1)first
+2)second
+3)third
