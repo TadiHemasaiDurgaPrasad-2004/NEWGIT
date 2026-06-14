@@ -10,4 +10,5 @@ hii guys  i am creating a new git!!
 **DURGA**
 ***Prasad***
 ~~hemmasaidurrgaprrasadd~~
-Hii my name is hemasai<sub>I am studing btech in ACET in the stream of IT branch!<sub> (a+b)<sup>2<sup>  <u>sai</u>  <ins>siva</ins>
+Hii my name is hemasai<sub>I am studing btech in ACET in the stream of IT branch!<sub> (a+b)<sup>2<sup>  
+<ins>siva</ins>
