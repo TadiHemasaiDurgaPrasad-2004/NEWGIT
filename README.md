@@ -34,7 +34,7 @@ print(a+b)
 
 <h6><ins>ORDERED LIST!!</ins></h6>
 
-#NUMERIC
+<ins>**NUMERIC**</ins>
 
 1.First Item
 
@@ -42,7 +42,7 @@ print(a+b)
 
 3.Third Item
 
-#ALPHABETICAL (CL)
+<ins>**ALPHA CL**</ins>
 
 A.First Item
 
@@ -50,7 +50,7 @@ B.Second Item
 
 C.Third Item
 
-#ALPHABETICAL (SL)
+<ins>**ALPHA SL**</ins>
 
 a.First Item
 
@@ -58,7 +58,7 @@ b.Second Item
 
 c.Third Item
 
-#ROMANNUMERIC
+<ins>**ROMANNUMERIC**</ins>
 
 I.First Item
 
