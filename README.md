@@ -150,12 +150,12 @@ Greateful[^]]
 sorrowful[^2]]
 
 
---[]option1
+# check boxes
 
---[]option2
-
-
---[]option3
+- [ ] Learn HTML
+- [ ] Learn CSS
+- [x] Learn Markdown
+- [x] Create GitHub Repository
 
 
 
